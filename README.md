@@ -72,7 +72,7 @@ To install and run the project locally:
 
 To contribute to this project:
 
-1. Fork the repository from [https://github.com/Karon03/RR-Music-Library](https://github.com/Karon03/RR-Music-Library).
+1. Fork the repository from https://github.com/Shivnia/RR-Music-Library
 2. Create a new branch for your feature or fix.
 3. Make your changes and commit them.
 4. Push your changes to the new branch.
