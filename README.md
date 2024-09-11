@@ -78,19 +78,18 @@ To contribute to this project:
 4. Push your changes to the new branch.
 5. Open a pull request to the original repository.
 
-For detailed contribution guidelines, refer to [CONTRIBUTING.md](#)
+
 
 ## Issues
 
 - **Known Issues:**
-  - [List any known issues or bugs here.]
+  - None 
 
 - **Feature Requests:**
-  - [List any outstanding feature requests here.]
-
+  - None
 ## Changelog
 
-For detailed information about changes and version releases, see [CHANGELOG.md](#)
+For detailed information about changes and version releases, see [CHANGELOG.md](#) (No Changelog as this is a solution branch for building a readme)
 
 ## API Documentation
 
@@ -100,4 +99,4 @@ The application interacts with the iTunes API. For details on the API endpoints 
 - **Tutorial Documentation:** To search for music, enter a term in the search bar. The application fetches and displays results based on the search term.
 - **Conceptual Documentation:** The app sends search queries to the iTunes API and processes the response to display music tracks. The `Gallery` component renders a list of `GalleryItem` components, which provide detailed or simple views of the tracks.
 
-*For further information or help, please refer to the [API Documentation](#)
+
